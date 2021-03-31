@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Etanol ou Gasolina</string>
+    <string name="title">Etanol x Gasolina</string>
+    <string name="calcular">Calcular</string>
+    <string name="abesteca">Abasteça com:</string>
+    <string name="desenvolvido">Desenvovido por:</string>
+    <string name="dev">Felipe Pardim</string>
+    <string name="etanol">Etanol</string>
+    <string name="gasolina">Gasolina</string>
+    <string name="precoEtanol">Preço do etanol</string>
+    <string name="precoGasolina">Preço da gasolina</string>
+</resources>
